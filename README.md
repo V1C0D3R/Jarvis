@@ -1,9 +1,9 @@
 # Jarvis
 
-Tested on Mac OS X 10.11 (El Capitan)
+Tested on Mac OS X 10.11 (El Capitan) with Python 2.7.10
 
 ## Requirements
-- Python 2/3 with _myo-python_ and _phue_
+- Python 2/3 with _myo-python_ and _phue_ installed
 - Myo Connect installed
 - A brain because Jarvis can not do everything for you
 
