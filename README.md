@@ -16,4 +16,6 @@ $ python jarvis.py
 
 ## Thanks
 
-Special thanks to _NiklasRosenstein_ and the contributors to the Python interface (https://github.com/NiklasRosenstein/myo-python) and _studioimaginaire_ and the contributors to the Python Library for Philips Hue (https://github.com/studioimaginaire/phue)
+Special thanks to :
+- _NiklasRosenstein_ and the contributors to the Python interface (https://github.com/NiklasRosenstein/myo-python)
+- _studioimaginaire_ and the contributors to the Python Library for Philips Hue (https://github.com/studioimaginaire/phue)
